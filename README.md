@@ -52,16 +52,16 @@ Dropout: Prevents overfitting (rate: 0.3–0.5)
 Batch Normalization: Faster and more stable training
 
 ## 🚀 Advanced Techniques
-###🔸 Self-Organizing Maps (SOM)
+🔸 Self-Organizing Maps (SOM)
 Clusters patients into risk groups
 Topology-preserving 2D grid visualization
 Clear separation between malignant and benign clusters
 
-###🔸 Radial Basis Function Network (RBFN)
+🔸 Radial Basis Function Network (RBFN)
 Gaussian activation, anomaly detection
 Good for identifying rare or borderline cases
 
-###🔸 Bidirectional Associative Memory (BAM)
+🔸 Bidirectional Associative Memory (BAM)
 Learns binary symptom-disease pairs
 Can recall input from output and vice versa
 
